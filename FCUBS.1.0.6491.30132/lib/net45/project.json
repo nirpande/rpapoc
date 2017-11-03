@@ -1,0 +1,25 @@
+{
+  "name": "FCUBS",
+  "description": "Blank Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "Microsoft.Activities": "1.0.1.0",
+    "UiPath.Cognitive.Activities": "1.0.6383.17974",
+    "UiPath.Core.Activities": "17.1.6435.21841",
+    "UiPath.Credentials.Activities": "1.1.6383.17967",
+    "UiPath.Database.Activities": "1.0.6383.17973",
+    "UiPath.Excel.Activities": "2.0.6382.14545",
+    "UiPath.Framework.Activities": "1.0.5905.30080",
+    "UiPath.Mail.Activities": "1.1.6382.14550",
+    "UiPath.PDF.Activities": "1.0.6382.14545",
+    "UiPath.Terminal.Activities": "1.1.6464.20815"
+  },
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "17.1.6435.21855",
+  "projectVersion": "1.0.6491.30132",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
